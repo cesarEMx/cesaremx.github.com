@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+p{
+    display:inline-block;
+    width: 400px; 
+    font-size: 30px;
+}
+
+h1{
+    display:inline-block;
+    width: 8px;
+}
+
+h3{
+    font-size: 36px;
+    font-weight: 700;
+    margin: 50px 0 0 ;
+}
+header{
+    background-color:rgb(11, 89, 88);
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    padding: 16px;
+    
+}
+ul{
+    margin-top: 12px;
+    padding: 0;
+}
+li{
+    margin-top: 16px;
+}
+#img1{
+    display:inline-block;
+    width: 30%;
+    margin-top: 20px;
+}
+.sobremi{
+   background-color: rgb(176,196,222);
+   text-align: center;
+   padding: 16px;
+}
+.cuerpo{
+    width: 960px;
+    height: 150px;
+    margin-top: 70px;
+    margin-right: auto;
+    margin-left: auto;
+   
+}
